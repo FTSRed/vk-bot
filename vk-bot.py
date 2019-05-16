@@ -4,7 +4,7 @@ import random
  
 token = "твой токен"
  
-vk = vk_api.VkApi(token="вставь свой токе группы сюда!")
+vk = vk_api.VkApi(token="вставь свой токен группы сюда!")
  
 vk._auth_token()
  
